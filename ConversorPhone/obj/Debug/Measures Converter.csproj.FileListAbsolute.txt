@@ -1,0 +1,19 @@
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\AppManifest.xaml
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\App.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\XapCacheFile.xml
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\ConvertMe.g.resources
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\ConvertMe.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\ConvertMe.pdb
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Debug\ConvertMe.xap
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\ConvertMe.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\ConvertMe.pdb
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\Measures Converter.csprojResolveAssemblyReference.cache
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\BasesPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\MassaPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\MedidasPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\TemperaturaPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\TempoPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Debug\VelocidadePage.g.i.cs

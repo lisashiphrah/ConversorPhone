@@ -1,0 +1,30 @@
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Measures Converter.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Measures Converter.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\AppManifest.xaml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\App.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\MainPage.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\Page2.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\Measures Converter.g.resources
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\Measures Converter.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\Measures Converter.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\XapCacheFile.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\MeasuresConverter.xap
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\Measures Converter.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\Measures Converter.pdb
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\App.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\MainPage.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\Page2.g.i.cs
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\Measures Converter.g.resources
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\Measures Converter.dll
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\Measures Converter.pdb
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\AppManifest.xaml
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\Bin\Release\MeasuresConverter.xap
+C:\Users\cassia_almeida\Downloads\ConversorPhone Ingles\ConversorPhone\obj\Release\XapCacheFile.xml

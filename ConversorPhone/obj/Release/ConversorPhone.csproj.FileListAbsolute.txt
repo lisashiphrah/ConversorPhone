@@ -1,0 +1,34 @@
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.dll
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.pdb
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\AppManifest.xaml
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.xap
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\App.g.i.cs
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\MainPage.g.i.cs
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\Page2.g.i.cs
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.g.resources
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.dll
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.pdb
+C:\Users\cassia\Documents\Visual Studio 2010\Projects\ConversorPhone\ConversorPhone\obj\Release\XapCacheFile.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\AppManifest.xaml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\ConversorPhone.xap
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\App.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\MainPage.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\Page2.g.i.cs
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.g.resources
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.dll
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\ConversorPhone.pdb
+C:\Users\cassia\Desktop\ConversorPhone\ConversorPhone\obj\Release\XapCacheFile.xml

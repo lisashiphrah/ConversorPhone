@@ -1,0 +1,125 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="ConversorPhone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    Background="Black"
+    Foreground="White"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <StackPanel x:Name="GridLayout" Background="Black">
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Border HorizontalAlignment="Right" Margin="20">
+            <Image Source="Images/logo.png" Width="230"></Image>
+        </Border>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <!--  TEMPERATURE  -->
+            <Border Margin="10 0 0 5"
+                    Height="220" Width="220"
+                    MouseLeftButtonDown="ConversaoTemperatura_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#29bab3"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_term.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockTemperatura" Text="temperatura" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30"/>
+                </StackPanel>
+            </Border>
+
+            <!--    MEASURES    -->
+            <Border Margin="0 0 10 5" 
+                    Grid.Column="1" 
+                    Width="220" Height="220"
+                    MouseLeftButtonDown="ConversaoMedidas_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#f8634d"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_ruler.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockMedidas" Text="medidas" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+                </StackPanel>
+            </Border>
+
+            <!--    BASES   -->
+            <Border Margin="10 0 0 5"
+                    Grid.Row="1" 
+                    Height="220" Width="220"
+                    MouseLeftButtonDown="ConversaoBases_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#b3d01e"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_bin.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockBases" Text="bases" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+                </StackPanel>
+            </Border>
+
+            <!--    TIME    -->
+            <Border Margin="0 0 10 5"
+                    Grid.Column="1" Grid.Row="1" 
+                    Height="220" Width="220"
+                    MouseLeftButtonDown="ConversaoTempo_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#117ab1"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_time.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockTempo" Text="tempo" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+                </StackPanel>
+            </Border>
+
+            <!--    WEIGHT    -->
+            <Border Margin="10 0 0 5"
+                    Grid.Row="2" Grid.Column="0"
+                    Height="220" Width="220"
+                    MouseLeftButtonDown="ConversaoMassa_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#9c6beb"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_weight.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockMassa" Text="peso" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+                </StackPanel>
+            </Border>
+            
+            <!--    SPEED    -->
+            <Border Margin="0 0 10 5"
+                    Grid.Row="2"  Grid.Column="1"
+                    Height="220" Width="220"
+                    MouseLeftButtonDown="ConversaoVelocidade_Click">
+                <Border.Background>
+                    <SolidColorBrush Color="#eab323"/>
+                </Border.Background>
+                <StackPanel>
+                    <Image Source="Images/icon_speed.png" Height="130" Margin="20"></Image>
+                    <TextBlock x:Name="textBlockVelocidade" Text="velocidade" Margin="10 -5 0 0"
+                               Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+                </StackPanel>
+            </Border>
+        </Grid>
+    </StackPanel>
+
+</phone:PhoneApplicationPage>
