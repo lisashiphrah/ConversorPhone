@@ -14,9 +14,9 @@
 </ul>
 
 <div style="width:220px">
-  <img src='menu.png'/>
+  <img src='menu 2.png'/>
   </br></br>
-  <img src='measures.png'/>
+  <img src='measures 2.png'/>
   </br></br>
   <img src='time.png'/>
 </div>
