@@ -14,9 +14,12 @@
 </ul>
 
 <div style="width:220px">
+  <h4>1. Menu screen</h4>
   <img src='menu 2.png'/>
-  </br></br>
+  </br>
+  <h4>2. Measures screen</h4>
   <img src='measures 2.png'/>
-  </br></br>
+  </br>
+  <h4>3. Time screen</h4>
   <img src='time.png'/>
 </div>
