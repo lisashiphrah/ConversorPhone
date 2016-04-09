@@ -17,9 +17,9 @@
   <h4>1. Menu screen</h4>
   <img src='menu 2.png'/>
   </br>
-  <h4>2. Measures screen</h4>
+  <h4>2. Measures converter screen</h4>
   <img src='measures 2.png'/>
   </br>
-  <h4>3. Time screen</h4>
+  <h4>3. Time converter screen</h4>
   <img src='time.png'/>
 </div>
