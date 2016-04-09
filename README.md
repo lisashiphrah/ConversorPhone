@@ -1,6 +1,6 @@
 
   <img src="MeasuresConverterTitle.png"/>
-
+</br></br>
 <p>ConversorPhone (or Measures Converter) is a Windows Phone 7/7.5 app developed by Cassia Almeida to be presented as the final project for the Windows Phone Developers Course made in 2011.</p>
 
 <p>This app is published in Windows Store and enables the user to convert several measures types, such as:</p>
