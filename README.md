@@ -14,9 +14,9 @@
 </ul>
 
 <div style="width:220px">
-  <img src='menu.png' style="max-width:220px;"/>
-  </br>
-  <img src='measures.png' style="max-width:220px;"/>
-  </br>
-  <img src='time2.png' style="max-width:220px;"/>
+  <img src='menu.png'/>
+  </br></br>
+  <img src='measures.png'/>
+  </br></br>
+  <img src='time.png'/>
 </div>
