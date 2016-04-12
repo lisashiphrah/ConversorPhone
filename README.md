@@ -8,11 +8,11 @@
   <li>Km/h to m/s</li>
   <li>Feet</li>
   <li>Yard</li>
-  <li>Inches</li>
+  <li>Inches</li> 
   <li>Temperature (Celsius, Fahrenheit, Kelvin)</li>
   <li>Decimal to Binary, Octal, Hexa</li>
-  <li>Time (hours to minutes, seconds, years, days...)</li>
-</ul>
+  <li>Time (hours to minutes, seconds, years, days...)</li> 
+</ul> 
 
 <div style="width:220px">
   <h4>1. Menu screen</h4>
