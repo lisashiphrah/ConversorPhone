@@ -5,9 +5,9 @@
 
 <p>This app is published in Windows Store and enables the user to convert several measures types, such as:</p>
 <ul>
-  <li>Km/h to m/s</li>
+  <li>Km/h to m/s</li> 
   <li>Feet</li>
-  <li>Yard</li>
+  <li>Yard</li> 
   <li>Inches</li> 
   <li>Temperature (Celsius, Fahrenheit, Kelvin)</li>
   <li>Decimal to Binary, Octal, Hexa</li>
