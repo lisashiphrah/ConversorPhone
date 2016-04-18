@@ -15,7 +15,7 @@ namespace MeasuresConverter.Helpers
     /// <summary>
     /// Classe contendo métodos a respeito das conversões de tempo
     /// </summary>
-    public class ConversaoTempo
+    public class ConversaoTempo  
     {
         /// <summary>
         /// Recebe a medida origem e destino e retorna o resultado convertido
