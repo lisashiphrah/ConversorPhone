@@ -10,7 +10,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using MeasuresConverter.Enum;
 
-namespace MeasuresConverter.Helpers
+namespace MeasuresConverter.Helpers  
 {
     /// <summary>
     /// Classe contendo métodos a respeito das conversões de medidas
