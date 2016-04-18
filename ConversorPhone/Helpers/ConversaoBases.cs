@@ -19,7 +19,7 @@ namespace MeasuresConverter.Helpers
     public class ConversaoBases
     {
         #region Propriedades
-
+  
         public static int De { get; set; }
 
         public static int Para { get; set; }
