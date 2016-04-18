@@ -23,7 +23,7 @@ namespace MeasuresConverter.Helpers
         public static string[] LoadVelocidade()
         {
             string[] strArray =
-            {
+            {   
                 "Select...",
                
             };
