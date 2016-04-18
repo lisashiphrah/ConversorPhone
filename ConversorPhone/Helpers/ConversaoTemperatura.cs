@@ -20,7 +20,7 @@ namespace MeasuresConverter.Helpers
         /// <summary>
         /// Recebe a temperatura origem e destino e retorna o resultado convertido
         /// </summary>
-        /// <param name="de">Temperatura origem</param>
+        /// <param name="de">Temperatura origem</param>  
         /// <param name="para">Temperatura destino</param>
         /// <param name="valor">Valor a ser convertido</param>
         /// <returns>Conversão efetuada</returns>
