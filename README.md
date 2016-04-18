@@ -10,7 +10,7 @@
   <li>Yard</li> 
   <li>Inches</li> 
   <li>Temperature (Celsius, Fahrenheit, Kelvin)</li>
-  <li>Decimal to Binary, Octal, Hexa</li>
+  <li>Decimal to Binary, Octal, Hexa</li>  
   <li>Time (hours to minutes, seconds, years, days...)</li> 
 </ul> 
 
