@@ -10,10 +10,136 @@ This app Was published in Windows Store and enabled the user to convert several 
 * Decimal to Binary, Octal, Hexa  
 * Time (hours to minutes, seconds, years, days...)
 
-1. Menu screen
-  <img src='menu 2.png'/>
-2. Measures converter screen
-  <img src='measures 2.png'/>
-  3. Time converter screen</h4>
-  <img src='time.png'/>
+### Project Structure
+
+There's a different xaml page for each conversion selected by the user:
+* BasesPage.xaml
+* MassaPage.xaml (weights)
+* MedidasPage.xaml (measures)
+* TemperaturaPage.xaml (temperatures: Celsius, Fahrenheit, Kelvin)
+* TempoPage.xaml (time: hours to minutes, seconds, years, days...)
+* VelocidadePage.xaml (Km/h to m/s)
+* Page2.xaml - responsible for populating the elements combo boxes with the conversion options, and responsible for calling the correct converter depending on what the user choose to convert:
+
+```c#
+/// <summary>
+/// Renderiza a página com o tipo de conversão solicitado
+/// </summary>
+private void RenderizaComponentes()
+{
+    var thisApp = App.Current as App;
+    var conversao = (ConversoesEnum)Enum.Parse(typeof(ConversoesEnum), thisApp.TypeConvertion, true);
+    switch (conversao)
+    {
+        case ConversoesEnum.BASES:
+            this.listaCombo = ConversaoBases.LoadBases();
+            break;
+        case ConversoesEnum.MEDIDAS:
+            this.listaCombo = ConversaoMedidas.LoadMedidas();
+            break;
+        case ConversoesEnum.TEMPERATURA:
+            this.listaCombo = ConversaoTemperatura.LoadTemperatura();
+            this.PageTitle.Text = "temperature";
+            break;
+        case ConversoesEnum.TEMPO:
+            this.listaCombo = ConversaoTempo.LoadTempo();
+            this.PageTitle.Text = "time";
+            break;
+        case ConversoesEnum.MASSA:
+            this.listaCombo = ConversaoMassa.LoadMassa();
+            this.PageTitle.Text = "weight";
+            break;
+        case ConversoesEnum.VELOCIDADE:
+            this.listaCombo = ConversaoVelocidade.LoadVelocidade();
+            this.PageTitle.Text = "speed";
+            break;
+    }
+    this.comboBoxDe.ItemsSource = listaCombo;
+    this.comboBoxPara.ItemsSource = listaCombo;
+    this.comboBoxDe.SelectedIndex = 0;
+    this.comboBoxPara.SelectedIndex = 0;
+}
+```
+
+Converter Click event:
+
+```c#
+ private void Converter_Click(object sender, RoutedEventArgs e)
+{
+    textBlockErro.Visibility = Visibility.Collapsed;
+    int de = comboBoxDe.SelectedIndex;
+    int para = comboBoxPara.SelectedIndex;
+
+    try
+    {
+        switch (MainPage.conversao)
+        {
+            //Conversão de Bases
+            #region Bases
+            case (ConversoesEnum.BASES):
+                ConversaoBases.Converte(de, para, textBoxQuantidade.Text);
+                break;
+            #endregion
+            
+            //Conversão de Tempo
+            #region Tempo
+            case (ConversoesEnum.TEMPO):
+
+                try
+                {
+                    double valorEntrada = Double.Parse(textBoxQuantidade.Text);
+                    double resultado = 0.0;
+                    switch (de)
+                    {
+                        //Anos
+                        case (1):
+                            resultado = caculaDias(para, valorEntrada * 365);
+                            break;
+
+                        //Dias
+                        case (2):
+                            resultado = caculaDias(para, valorEntrada);
+                            break;
+
+                        //Horas
+                        case (3):
+                            resultado = caculaDias(para, valorEntrada / 24);
+                            break;
+
+                        //Mês
+                        case (4):
+                            resultado = caculaDias(para, valorEntrada * 30);
+                            break;
+
+                        //Minutos
+                        case (5):
+                            resultado = caculaDias(para, ((valorEntrada / 24) / 60));
+                            break;
+
+                        //Segundos
+                            case (6):
+                                resultado = caculaDias(para, (valorEntrada / 86400));
+                                break;
+
+                            //Semanas
+                            case (7):
+                                resultado = caculaDias(para, valorEntrada / 7);
+                                break;
+                        }
+
+                        textBoxResultado.Text = resultado.ToString();
+                        }
+            
+            .
+            .
+            .
+            
+        }
+     }
+}
+```
+
+
+### Screenshots
+  <img src='capture.png'/>
 
