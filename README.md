@@ -10,7 +10,7 @@ This app Was published in Windows Store and enabled the user to convert several 
 * Decimal to Binary, Octal, Hexa  
 * Time (hours to minutes, seconds, years, days...)
 
-### Project Structure
+## Project Structure
 
 There's a different xaml page for each conversion selected by the user:
 * BasesPage.xaml
@@ -139,7 +139,11 @@ Converter Click event:
 }
 ```
 
+## Project Deployment
 
-### Screenshots
+The application was published in US, BR and PT markets, reaching thousands of users. For US, a translated version was deployed.
+After Windows Phone version 8.1, Microsoft unfortunately removed all apps from the store that were compatible only with versions 7 or 7.5 (in this case, THIS APP! :sob:).
+
+## Screenshots
   <img src='capture.png'/>
 
