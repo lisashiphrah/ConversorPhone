@@ -128,7 +128,7 @@ Converter Click event:
                         }
 
                         textBoxResultado.Text = resultado.ToString();
-                        }
+                    }
             
             .
             .
